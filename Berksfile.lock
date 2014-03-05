@@ -1,0 +1,75 @@
+{
+  "sources": {
+    "apt": {
+      "locked_version": "2.3.8"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "git": {
+      "locked_version": "2.9.0"
+    },
+    "php": {
+      "locked_version": "1.3.14"
+    },
+    "apache2": {
+      "locked_version": "1.9.0"
+    },
+    "mysql": {
+      "locked_version": "4.0.20"
+    },
+    "database": {
+      "locked_version": "1.6.0"
+    },
+    "precise64-lamp": {
+      "locked_version": "0.1.0",
+      "git": "git@github.com:awc737/precise64-lamp-cookbook.git",
+      "ref": "49700a87e720b451af2a43f1164be73f5ce8cfc1"
+    },
+    "dmg": {
+      "locked_version": "2.1.4"
+    },
+    "windows": {
+      "locked_version": "1.30.0"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
+    },
+    "runit": {
+      "locked_version": "1.5.8"
+    },
+    "yum": {
+      "locked_version": "3.1.2"
+    },
+    "yum-epel": {
+      "locked_version": "0.3.4"
+    },
+    "xml": {
+      "locked_version": "1.2.0"
+    },
+    "iis": {
+      "locked_version": "2.0.0"
+    },
+    "iptables": {
+      "locked_version": "0.12.0"
+    },
+    "logrotate": {
+      "locked_version": "1.5.0"
+    },
+    "pacman": {
+      "locked_version": "1.1.1"
+    },
+    "openssl": {
+      "locked_version": "1.1.0"
+    },
+    "postgresql": {
+      "locked_version": "3.3.4"
+    },
+    "aws": {
+      "locked_version": "2.0.0"
+    },
+    "xfs": {
+      "locked_version": "1.1.0"
+    }
+  }
+}
